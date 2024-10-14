@@ -459,6 +459,7 @@ h1 {
   border-radius: 10px;
   background-color: rgba(229, 255, 204, 0.8235294118);
   margin-bottom: 20px;
+  margin-top: 0px;
 }
 
 .aprasymas {
@@ -467,6 +468,7 @@ h1 {
   border: 1px solid #000;
   border-radius: 10px;
   padding: 10px;
+  padding-top: 0;
   background-color: rgba(229, 255, 204, 0.8235294118);
 }
 
